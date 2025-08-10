@@ -1,13 +1,12 @@
 # 👋 Hey there, I'm Talha Asif  
 
-💻 **MERN Stack Developer** | 🌱 Always learning & building | 🚀 Open-source enthusiast  
+I am an Aspiring Software Engineer. I am passionate about technologies and love to learn new things.
 
 ---
 
 ## 🚀 About Me  
 - 🔭 I’m currently working on **MERN Stack Projects**  
-- 🌱 Learning **Next.js & TypeScript** to level up my skills  
-- 💬 Ask me about **JavaScript, React, Node.js, MongoDB**  
+- 💬 Ask me about **JavaScript, React, Node.js, MongoDB**
 - ⚡ Fun fact: I turn ☕ coffee into clean code  
 
 ---
